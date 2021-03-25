@@ -135,6 +135,8 @@ Table of Contents
 
 * [SiteGround](https://www.siteground.com/students-plan.htm) [DISCOUNT] - $1.99/month instead of $3.95/month on their [StartUp plan](https://www.siteground.com/shared-hosting-features.htm).
 
+* [Bip](https://bip.sh/students) [DISCOUNT] - Static web hosting. Bip provides a 30% recurring discount for students [on all plans](https://bip.sh/pricing).
+
 * [Education Host](https://education.github.com/pack/redeem/educationhost) [FREE] - Available web-hosting to students in Designer package for free for 1 year & discounted upgrade offers.Available via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [NodeHost](https://www.nodehost.ca/teachers) [FREE] - PHP hosting. Free container plan comes with 350MB Storage, 35GB Bandwidth, 1 MySQL Database, and 2 email accounts.
@@ -175,6 +177,8 @@ Table of Contents
 * [Blockchair](https://education.github.com/pack/redeem/blockchair-student) [FREE] - Connect to the world of blockchains through Blockchair’s professional APIs — supports most major cryptocurrencies.100,000 free requests.
 
 * [Customerly](https://education.github.com/pack/redeem/customerly) [FREE] - Live chat, behavioural funnels, newsletters, and in-app surveys for SaaS.Customerly Pro free for 6 months.
+
+* [Loom Pro](https://support.loom.com/hc/en-us/articles/360006579637-Loom-Pro-Free-for-Students-and-Teachers/?ref=codegena.com)[FREE] - Loom is a video recording tool that helps you get your message across through instantly shareable videos.
 
 
 ## PaaS
@@ -218,7 +222,7 @@ Table of Contents
 
   * [Bitnami](https://bitnami.com) [FREE] - Install cloud applications in a single click. Business 3 plan (normally $49/month) for one year available via [Github Student Developer Pack](https://education.github.com/pack).
 
-* [Yellow Circle](http://www.yellowcircle.net) [FREE] - Offers a free online sandbox for students and teachers at all levels to learn and practice IT, networking, and programming skills by creating and configuring virtual routers, virtual machines, and virtual firewalls, load-balancers, and storage devices.
+* [Yellow Circle](https://yellowcircle.net) [FREE] - Offers a free online sandbox for students and teachers at all levels to learn and practice IT, networking, and programming skills by creating and configuring virtual routers, virtual machines, and virtual firewalls, load-balancers, and storage devices.
 
 * [Vertabelo](http://www.vertabelo.com/) [FREE] - Fully-featured online tool for database design. Free for Educational Purposes.
 
@@ -309,7 +313,7 @@ Table of Contents
 
 ## Visual Analytics
 
-  * [CartoDB](https://cartodb.com/solutions/education-and-research/) [FREE / DISCOUNT] - Additional space & features for free accounts or 20% discount on paid accounts.
+  * [CARTO](https://carto.com/help/getting-started/student-accounts/) [FREE / DISCOUNT] - Free account upgrades with increased database storage, real time data, Location Data Services Credits, and premium features for 2 years.
 
 * [Tableau Desktop](https://www.tableau.com/academic/students) [FREE] - One Year Professional License for Students.
 
