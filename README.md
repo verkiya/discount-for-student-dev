@@ -34,6 +34,7 @@ Table of Contents
   * [Infrastructure Monitoring](#infrastructure-monitoring)
   * [Software Packs](#software-packs)
   * [Learning Resources](#learning-resources)
+  * [Data science](#data-science)
 
 
 
@@ -88,7 +89,9 @@ Table of Contents
   * [Kodika](https://education.github.com/pack/redeem/kodika) [FREE] - Build iOS applications with drag & drop.Kodika Unlimited Pro subscription free for 6 months.
   
   * [Polypane](https://education.github.com/pack/redeem/polypane) [FREE] - A powerful browser and developer tool that lets developers and designers make better websites and web apps in less time.Polypane free for 1 year.
-  
+
+  * [Tabnine](https://www.tabnine.com/students) [FREE] - Tabnine is an AI code completion tool that works on any IDE and supports all programming languages. Tabnine Pro Edition free for 1 year.
+
   * [Xojo](https://education.github.com/pack/redeem/xojo) [FREE] - A cross-platform development tool for making native apps for the Desktop.Xojo Desktop license free while you are a student.
   
   * [Yakindu](https://education.github.com/pack/redeem/yakindu) [FREE] - An integrated modelling environment for the specification and development of reactive, event-driven systems based on the concept of state machines.Yakindu Professional Edition free for 1 year.
@@ -129,7 +132,7 @@ Table of Contents
 
 ## Web Hosting
 
-  * [Digital Ocean](https://www.digitalocean.com) [CREDIT] - Digital Ocean provides $50 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
+  * [Digital Ocean](https://www.digitalocean.com) [CREDIT] - Digital Ocean provides $100 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
 
 * [RoseHosting](https://www.rosehosting.com) [DISCOUNT] - RoseHosting offers a recurring 20% discount on all their [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) and [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html) when paying monthly. Students can use the discount by applying the coupon code "STUDENT20". Valid for new customers only. Cannot be combined with any other offer.
 
@@ -139,7 +142,7 @@ Table of Contents
 
 * [Education Host](https://education.github.com/pack/redeem/educationhost) [FREE] - Available web-hosting to students in Designer package for free for 1 year & discounted upgrade offers.Available via [Github Student Developer Pack](https://education.github.com/pack).
 
-* [NodeHost](https://www.nodehost.ca/teachers) [FREE] - PHP hosting. Free container plan comes with 350MB Storage, 35GB Bandwidth, 1 MySQL Database, and 2 email accounts.
+* [NodeHost](https://www.nodehost.ca/teachers) [FREE] - PHP hosting. 500MB Storage, 80GB Bandwidth, 1 Database, and 2 email accounts per site, 28 day backup history.
 
 * [Pageclip](https://pageclip.co/github-students) [FREE] - A server for your static websites and HTML forms.Free basic plan while you are a student.
 
@@ -180,6 +183,8 @@ Table of Contents
 
 * [Loom Pro](https://support.loom.com/hc/en-us/articles/360006579637-Loom-Pro-Free-for-Students-and-Teachers/?ref=codegena.com)[FREE] - Loom is a video recording tool that helps you get your message across through instantly shareable videos.
 
+* [Twilio](https://www.twilio.com/blog/twilio-perks-students-and-educators-now-available-github-education)[CREDIT] - Free $50 USD in Twilio API credits & Exclusive in-game items in TwilioQuest for student via [Github Student Developer Pack](https://education.github.com/pack).
+
 
 ## PaaS
 
@@ -192,6 +197,8 @@ Table of Contents
 * [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/) - Microsoft Azure is an ever-expanding set of cloud services to help you build, manage, and deploy applications. Level up your ideas by learning cloud computing skills and get a $100 credit with your free Azure for Students account—no credit card required.
 
 * [Kaltura](https://developer.kaltura.com/github-student-developer-pack) [FREE] - Kaltura VPaaS simplifies building smart, interactive VOD, Live and real-time video experiences and apps at global scale.$10K/year in Kaltura VPaaS credits while you are a student.
+
+* [FlashDrive.io](https://flashdrive.io) - Deploy any code directly from Git with lot of supported languages out of the box and Docker support. $100 free credits for everyone + $1000 free credits per year with student program (ask support@flashdrive.io)
 
 
 ## Email
@@ -262,8 +269,6 @@ Table of Contents
 * [Covalence](https://education.github.com/pack/redeem/covalence)[FREE] - Join an exclusive developer community and learn Full Stack web-development with no long-term commitments.One free month of Covalence's Atomic Plan and two 1-on-1 mentoring sessions via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Transloadit](https://transloadit.com/github-students/) [FREE] - A versatile uploading & encoding API to automate any file conversion. The Startup plan for free, including 10GB of encoding credit.
-
-* [Storyscript](https://storyscript.com/github-student-pack) [FREE] - Storyscript is a top-level, cloud native programming language that helps you orchestrate data flow seamlessly between microservices.Free access to the Business Plan for the first year.
 
 * [Jaamly](https://education.github.com/pack/redeem/jaamly) [FREE] - Helping developers, designers, and startups to launch their apps on the App Store.Jaamly Startup plan free for 6 months.
 
@@ -356,8 +361,6 @@ Table of Contents
 
 * [Dashlane](https://www.dashlane.com/students) [FREE] - 1 year of free Dashlane Premium for Students, offer for new and existing users with eligible student emails ($3.33/month thereafter)
 
-* [LastPass](https://lastpass.com/edupromo.php) [FREE] - Enjoy 6 months of LastPass Premium to help you manage your online life at school!
-
 * [RoboForm](https://www.roboform.com/promotions/college) [FREE] - Free for students and professors with a valid college or university email address for the first year ($12/year thereafter)
 
 ## Infrastructure Monitoring
@@ -366,14 +369,14 @@ Table of Contents
 
 * [HoneyBadger](https://education.github.com/pack/redeem/honeybadger)[FREE] - Exception, uptime, and cron monitoring.Free Small account for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
 
-* [LogDNA](https://www.logdna.com/github-students)[FREE] - Log management platform that offers aggregation, monitoring, and analysis of server and application logs at any volume, from any source.Up to 50 GB/month of log storage with 14 day retention for one year via [Github Student Developer Pack](https://education.github.com/pack).
+* [LogDNA](https://www.logdna.com/blog/get-a-free-logdna-account-in-the-github-student-developer-pack)[FREE] - Log management platform that offers aggregation, monitoring, and analysis of server and application logs at any volume, from any source.Up to 50 GB/month of log storage with 14 day retention for one year via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Netwise](https://www.netwise.co.uk/students/) [FREE] - Turnkey data centre services for the hosting of critical IT infrastructure systems.Free single unit server colocation package free for 12 months.
 
 
 ## Software Packs
 
-  * [Microsoft Imagine (formerly DreamSpark)](https://imagine.microsoft.com/) [FREE / DISCOUNT] - Imagine is a Microsoft program that supports technical education by providing access to Microsoft software for learning, teaching and research purposes. Currently includes SQL Server 2012, 2014, and 2016; Windows Server 2008 R2, 2012 R2, and 2016 in DataCenter, Standard, and Essentials and Windows 8.1 Embedded Industry Pro. Also offers a free Azure App service plan (no credit card). Most students are also eligible for a free Windows 10 license through their school's [OnTheHub WebStore](http://onthehub.com/download/free-software/windows-10-education-for-students/).
+  * [Azure for Students](https://azureforeducation.microsoft.com/en-us/Institutions) [FREE / DISCOUNT] - Subscriptions provide access to Azure services. Azure for Students gives you $100 credit for 12 months. It includes access to more than 25 free services, including compute, network, storage, and databases. Any charges incurred during this period are deducted from the credit.
 
 * [Microsoft Office 365 Education](https://www.microsoft.com/en-au/education/products/office/default.aspx) [FREE] - Free access to Microsoft Office 365 software including Word, Excel, PowerPoint, OneNote, and Teams for students and teachers.
 
@@ -421,6 +424,10 @@ Table of Contents
 * [USETogether](https://www.use-together.com/github-students/) [FREE] - Remote pair programming and team collaboration tool.Free Premium subscription while you're a student, to be renewed every 6 months.
 
 * [Github Campus Experts](https://apply.githubcampus.expert/) [FREE] - GitHub Campus Experts are students who build technical communities on campus, with training and support from GitHub.Apply to become part of the program while you’re a student.
+
+##  Data science
+
+* [Deepnote](https://deepnote.com/education) [FREE] - The best way to collaborate with others on data science projects. Education plan allows you to create an unlimited amount of Deepnote teams and work with any number of collaborators.
 
 # License
 
